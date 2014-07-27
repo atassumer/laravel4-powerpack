@@ -17,7 +17,7 @@
         "php": ">=5.3.0",
         "illuminate/support": "4.2.x",
         "illuminate/routing": "4.2.x",
-        "raveren/kint": "dev-master"
+        "raveren/kint": "v0.9"
     },
     "autoload": {
         "psr-0": {
